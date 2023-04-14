@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T15:18:19.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qalOF7Zu-7nZ8vNUzlCD" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T15:20:42.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="h4iQ5Sco9snwt0gP2LFd" version="21.1.6" type="github">
   <diagram name="Page-1" id="XtkjCV9KKVg2FIivRgW3">
     <mxGraphModel dx="662" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,10 +116,10 @@
           <mxGeometry x="319" y="103.88" width="15.44" height="16.25" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="270" y="640" width="330" height="110" as="geometry" />
+          <mxGeometry x="255" y="640" width="330" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-103" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 16px;&quot;&gt;Human (and Automatic) Evaluation&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300.24" y="648" width="287.5" height="30" as="geometry" />
+          <mxGeometry x="285.24" y="648" width="287.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-104" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=16.47058823529412;endSize=3.51764705882353;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -131,16 +131,16 @@
           <mxGeometry x="289.8" y="654.87" width="15.44" height="16.25" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-106" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#404040&quot;&gt;Annotation and Crowdsourcing&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#404040&quot;&gt;Amazon MTurk, User Study&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="333.44" y="680" width="100" height="55" as="geometry" />
+          <mxGeometry x="318.44" y="680" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="OQfzfdWxnZrzoLUZp90h-107" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#404040&quot;&gt;&lt;b&gt;Human-Correlated Evaluation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#404040&quot;&gt;BARTScore, BERTScore,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="469.88" y="680" width="110.12" height="55" as="geometry" />
+        <mxCell id="OQfzfdWxnZrzoLUZp90h-107" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#404040&quot;&gt;&lt;b&gt;Human-Correlated Evaluation&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#404040&quot;&gt;BARTScore, BERTScore, BLEU&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454.88" y="680" width="110.12" height="55" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://icones.pro/wp-content/uploads/2021/08/icone-amazon-noir.png;" vertex="1" parent="1">
-          <mxGeometry x="293.19" y="689.84" width="31.31" height="31.31" as="geometry" />
+          <mxGeometry x="278.19" y="689.84" width="31.31" height="31.31" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-111" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/3683101-200.png;" vertex="1" parent="1">
-          <mxGeometry x="435.73" y="691.62" width="27.75" height="27.75" as="geometry" />
+          <mxGeometry x="420.73" y="691.62" width="27.75" height="27.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

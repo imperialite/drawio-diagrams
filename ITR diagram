@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T10:27:26.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="i9_18QDndo6QzjlxAL4D" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T12:26:59.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yzh1G-dYOCKmyQDhqELC" version="21.1.6" type="github">
   <diagram name="Page-1" id="XtkjCV9KKVg2FIivRgW3">
     <mxGraphModel dx="934" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,13 +100,13 @@
             <mxPoint x="420" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OQfzfdWxnZrzoLUZp90h-48" value="&lt;font color=&quot;#404040&quot;&gt;&lt;b&gt;Narrative Generation&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="221" y="540" width="70" height="30" as="geometry" />
+        <mxCell id="OQfzfdWxnZrzoLUZp90h-48" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;color: rgb(64, 64, 64); background-color: initial;&quot;&gt;Narrative Generation&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(64, 64, 64); background-color: initial;&quot;&gt;WritingPrompts,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(64, 64, 64); background-color: initial;&quot;&gt;CEFR, STORIUM&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="545" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#644672;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="484" y="535" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OQfzfdWxnZrzoLUZp90h-51" value="&lt;font color=&quot;#404040&quot;&gt;&lt;b&gt;Dialogue Generation&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OQfzfdWxnZrzoLUZp90h-51" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;color: rgb(64, 64, 64); background-color: initial;&quot;&gt;Dialogue Generation&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="540" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-52" value="&lt;font color=&quot;#404040&quot;&gt;&lt;b&gt;Question Answering&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -142,8 +142,8 @@
         <mxCell id="OQfzfdWxnZrzoLUZp90h-80" value="&lt;b&gt;Reinforcement Lerning&lt;/b&gt;&lt;br&gt;(PPO, Human Feedback)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="256.74" y="390" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OQfzfdWxnZrzoLUZp90h-81" value="&lt;b&gt;Model Cutomization&lt;/b&gt;&lt;br&gt;(Finetuning and Prompting)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="253.31" y="313.13" width="116" height="30" as="geometry" />
+        <mxCell id="OQfzfdWxnZrzoLUZp90h-81" value="&lt;b&gt;Supervised Learning&lt;/b&gt;&lt;br&gt;(Finetuning and Prompting)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="256.74" y="309.13" width="123.26" height="36.87" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-82" value="&lt;b&gt;&lt;font color=&quot;#2b2b2b&quot;&gt;Large Language Models&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="443.88" y="303.75" width="152.12" height="30" as="geometry" />
@@ -154,11 +154,17 @@
             <mxPoint x="420" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OQfzfdWxnZrzoLUZp90h-84" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 16px;&quot;&gt;Task Modelling&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="OQfzfdWxnZrzoLUZp90h-84" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 16px;&quot;&gt;Task Modelling and Datasets&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="500" width="235" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-85" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#3c3e3e;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="110" y="530" width="47.5" height="50" as="geometry" />
+          <mxGeometry x="103.25" y="535" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OQfzfdWxnZrzoLUZp90h-86" value="&lt;b&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 14px;&quot;&gt;Human&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90.75" y="173.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OQfzfdWxnZrzoLUZp90h-87" value="&lt;b&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 14px;&quot;&gt;Human&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="97" y="580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

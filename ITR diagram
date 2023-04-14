@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T15:20:58.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lnagOOlOdmDlCF_ttTTi" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T15:21:46.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BMZzVzinGm5OsQy3DFXj" version="21.1.6" type="github">
   <diagram name="Page-1" id="XtkjCV9KKVg2FIivRgW3">
     <mxGraphModel dx="1134" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="287.75" y="500" width="287.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-85" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#3c3e3e;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="275.31" y="506.88" width="15.44" height="16.25" as="geometry" />
+          <mxGeometry x="274.31" y="506.88" width="15.44" height="16.25" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/85/85536.png;" vertex="1" parent="1">
           <mxGeometry x="196.44" y="533.14" width="42.87" height="42.87" as="geometry" />
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-105" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#3c3e3e;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="289.8" y="654.87" width="15.44" height="16.25" as="geometry" />
+          <mxGeometry x="274.8" y="654.87" width="15.44" height="16.25" as="geometry" />
         </mxCell>
         <mxCell id="OQfzfdWxnZrzoLUZp90h-106" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#404040&quot;&gt;Annotation and Crowdsourcing&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#404040&quot;&gt;Amazon MTurk, User Study&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="318.44" y="680" width="100" height="55" as="geometry" />

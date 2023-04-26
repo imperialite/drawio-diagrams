@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T00:09:40.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xZ7PhT3qjjI-7P3M5dgf" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T00:11:34.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="T1p4GEDn7eq7KIhRwBuq" version="21.1.9" type="github">
   <diagram name="Page-1" id="VxQklGUWAXRFmNhbMr7h">
     <mxGraphModel dx="836" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -30,7 +30,7 @@
           <mxGeometry x="76" y="29.720000000000027" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gg8qyuMBPz7LwjmbG4BC-13" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="380" width="550" height="316.35" as="geometry" />
+          <mxGeometry x="190" y="380.28" width="550" height="316.35" as="geometry" />
         </mxCell>
         <mxCell id="gg8qyuMBPz7LwjmbG4BC-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="gg8qyuMBPz7LwjmbG4BC-13">
           <mxGeometry width="147.77" height="59.72" as="geometry" />
@@ -47,11 +47,14 @@
         <mxCell id="gg8qyuMBPz7LwjmbG4BC-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.aporia.com/wp-content/uploads/2021/08/kullback-leibler-divergence.png;imageBorder=#67AB9F;strokeWidth=2;" vertex="1" parent="gg8qyuMBPz7LwjmbG4BC-13">
           <mxGeometry x="350" y="70" width="130" height="91.33" as="geometry" />
         </mxCell>
+        <mxCell id="gg8qyuMBPz7LwjmbG4BC-64" value="&lt;i&gt;&lt;font color=&quot;#2b2b2b&quot;&gt;&lt;b&gt;Model Optimization via Policy Gradients&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gg8qyuMBPz7LwjmbG4BC-13">
+          <mxGeometry x="249" y="182" width="240" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="gg8qyuMBPz7LwjmbG4BC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2B2B2B;" edge="1" parent="1" source="gg8qyuMBPz7LwjmbG4BC-15" target="gg8qyuMBPz7LwjmbG4BC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gg8qyuMBPz7LwjmbG4BC-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="400" width="130" height="109.86000000000001" as="geometry" />
+          <mxGeometry x="30" y="355" width="130" height="109.86000000000001" as="geometry" />
         </mxCell>
         <mxCell id="gg8qyuMBPz7LwjmbG4BC-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="gg8qyuMBPz7LwjmbG4BC-20">
           <mxGeometry width="130" height="109.86" as="geometry" />
